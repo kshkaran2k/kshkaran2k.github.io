@@ -1,0 +1,44 @@
+.navbar-right a:hover{
+    font-size:110%;
+}
+
+
+
+#home {
+    background-image: url('../img/home.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 0;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+}
+
+#home .overlay {
+    background-color: rgba(3, 3, 3, 0.8);
+    min-height: 905px;
+    overflow: hidden;
+}
+
+#home h1 {
+    line-height: 60px;
+    font-size: 45px;
+    font-weight: 900;
+    padding-top: 180px;
+    padding-bottom: 35px;
+    color: #FF6600;
+    opacity: 0.75;
+}
+
+
+#home h4 {
+    line-height: 32px;
+    font-size: 15px;
+    padding-bottom: 40px;
+    /*text-transform: uppercase;*/
+}
+
+
+
